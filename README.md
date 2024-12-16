@@ -1,4 +1,4 @@
-https://github.com/Jaiime10/TINY-LISP-T4/
+# https://github.com/Jaiime10/TINY-LISP-T4/
 
 # Tiny Lisp Interpreter
 
